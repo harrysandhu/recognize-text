@@ -7,4 +7,4 @@
     - create a blob over the text
         - x, y, size
     - recognize the text
-    - output the blob and the image
+    - output the bounding box with the image
